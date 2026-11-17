@@ -178,6 +178,16 @@ First Year · IN1901: Microcontroller Based Application Development
 
 A repository license has not yet been selected. Reuse permissions for firmware, hardware designs, and media will be documented once agreed upon by the contributors.
 
+## Related Repositories
+
+### AirDJ Mobile Application
+
+A companion mobile application developed for the Air DJ system, featuring Bluetooth connectivity, device monitoring, playlist management, and LED-related telemetry visualization.
+
+The application was developed as a separate component during the project.
+
+**Repository:** [AirDJ Mobile App](https://github.com/inusha-thathsara/air_dj)
+
 ---
 
 <div align="center">
