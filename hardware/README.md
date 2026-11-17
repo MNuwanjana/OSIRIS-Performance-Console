@@ -26,7 +26,7 @@ PCB designs were developed for two of the three hardware subsystems.
 | :--- | :--- |
 | Digital DJ Mixer | [View PCB Design](https://u.easyeda.com/join?type=project&key=5c5e7610b214060292de60c37f0c5b76&inviter=b9b5f0d0071f4287a9b8bf906969b0bd) |
 | Digital Octapad | [View PCB Design](https://u.easyeda.com/join?type=project&key=cca712bce40a11b25514944aa4cb97ba&inviter=dd74b28929074b3bae9ff57879d18bc3) |
-| LED Backdrop | Dot Board based circuit |
+| LED Backdrop | [View PCB Design](pcb-designs/led-backdrop/Schematic_LED_Backdrop.pdf) |
 
 The LED Backdrop subsystem was implemented using a manually assembled circuit rather than a dedicated PCB.
 
