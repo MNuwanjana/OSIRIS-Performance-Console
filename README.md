@@ -154,18 +154,9 @@ Test records should identify the firmware revision, hardware configuration, meth
 
 ## Project Status
 
-**Academic hardware prototype · Repository documentation in progress**
+**Academic hardware prototype completed · Repository documentation in progress**
 
 The prototype is documented in the final project report. Repository work focuses on making its implementation easier to inspect, reproduce, and maintain.
-
-- [ ] Publish the three firmware modules
-- [ ] Document exact toolchain and library versions
-- [ ] Add verified schematics and pin maps
-- [ ] Add component lists and power requirements
-- [ ] Publish prototype photos and a demonstration video
-- [ ] Record reproducible bench tests
-- [ ] Document individual engineering contributions
-- [ ] Package the first verified firmware release
 
 ## Team
 
@@ -173,13 +164,13 @@ The prototype is documented in the final project report. Repository work focuses
 University of Moratuwa  
 First Year · IN1901: Microcontroller Based Application Development
 
-| Member |
-| :--- |
-| Wijesiri KSK |
-| Jayanath SP |
-| Nuwanjana HMM |
-| Gunasekara MIT |
-| Dinisuru PWL |
+| **Member** | **GitHub** |
+| :--- | :--- |
+| Wijesiri KSK | @kaushalyawijesiri0-lang |
+| Jayanath SP | @jayanathsp-24 |
+| Nuwanjana HMM | @MNuwanjana |
+| Gunasekara MIT | @inusha-thathsara |
+| Dinisuru PWL | @Dinisuru-PWL |
 
 **Supervisor:** Mr. B. H. Sudantha
 
