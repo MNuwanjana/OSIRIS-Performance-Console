@@ -166,11 +166,11 @@ First Year · IN1901: Microcontroller Based Application Development
 
 | **Member** | **GitHub** |
 | :--- | :--- |
-| Wijesiri KSK | @kaushalyawijesiri0-lang |
-| Jayanath SP | @jayanathsp-24 |
-| Nuwanjana HMM | @MNuwanjana |
-| Gunasekara MIT | @inusha-thathsara |
-| Dinisuru PWL | @Dinisuru-PWL |
+| Wijesiri KSK | [@kaushalyawijesiri0-lang](https://github.com/kaushalyawijesiri0-lang) |
+| Jayanath SP | [@jayanathsp-24](https://github.com/jayanathsp-24) |
+| Nuwanjana HMM | [@MNuwanjana](https://github.com/MNuwanjana) |
+| Gunasekara MIT | [@inusha-thathsara](https://github.com/inusha-thathsara) |
+| Dinisuru PWL | [@Dinisuru-PWL](https://github.com/Dinisuru-PWL) |
 
 **Supervisor:** Mr. B. H. Sudantha
 
