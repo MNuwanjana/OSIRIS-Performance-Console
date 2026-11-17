@@ -70,7 +70,7 @@ The following tables summarize the main electronic components used in each subsy
 | Piezoelectric Sensors | 35mm | 8 |
 | OLED Display | 0.96-inch, 128 × 64 | 1 |
 | Push Button Switches | 12 × 12mm Tactile | Shared |
-| Speaker | 4Ω, 30W, 4-inch | 1 (shared system output) |
+| Speaker | 4Ω, 30W, 4-inch | 1 (shared) |
 
 ### 3. Music-Reactive LED Backdrop
 
